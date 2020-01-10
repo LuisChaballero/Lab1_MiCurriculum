@@ -1,0 +1,116 @@
+html{
+
+}
+body{
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+header{
+    margin-top: 0;
+}
+
+h1{
+    font-size: 60px;
+    
+}
+
+
+.txtCenter{
+    text-align: center;
+    margin-right: 100px;
+}
+
+.personalPhoto{ 
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+}
+
+li>a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.li-format{
+    float: left;
+    padding: 20px;
+}
+
+#nav-format{
+    background-color: rgb(78, 137, 214);
+    list-style: none;
+    overflow: hidden;
+}
+
+#education{
+    padding-top: 15px;
+}
+
+#img-format{
+    margin-top: 20px;
+    height: 70px;
+    width: 280px;
+    float: left;
+
+
+}
+#img-text{
+    float: right;
+    padding-top: 35px;
+    margin-right: 630px;
+}
+
+#experience{
+    display: block;
+    padding-top: 120px;
+}
+
+h2{
+    display: block;
+    
+}
+
+.content{
+    padding-bottom: 15px;
+}
+
+.date{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+table{
+    border: 1px solid #eee;
+    margin-left: 25px;
+
+    border-collapse: collapse;
+}
+
+th, td{
+    border: 1px solid #000;
+    padding: 15px 20px;
+}
+
+td{
+    text-align: left;
+    color: #000;
+}
+
+th{
+    color: white;
+    background-color: #55B3C5;
+    text-transform: uppercase;
+}
+
+tr:hover{
+    background-color: #f4f4f4;
+}
+
+td:hover{
+    color: #555;
+}
